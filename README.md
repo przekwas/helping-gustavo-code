@@ -100,3 +100,12 @@ Below is the TL;DR for project set up and then pushing subsequent changes:
 10. `git push`
 
 1-6 for fresh projects, 8-10 for existing projects.
+
+## Updated for Discord:
+
+1. Go to [https://discord.app.com/](https://discordapp.com/)
+2. Register for a free account
+3. [Download](https://discordapp.com/download) the Discord client for your Mac
+4. Login to the downloaded Discord client using the account you just registered
+5. Send me your account info so I can talk to you in Discord!  I use Discord for work so I'm always on there and able to help and talk to you
+   * It will be your account name, a `#`, and some numbers, kind of [like mine](https://imgur.com/a/zDwN5Z6)!! 
